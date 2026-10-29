@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- BANNER PERSONALIZADO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=%5BSEU%20NOME%5D&fontSize=50&fontColor=FF69B4&animation=twinkling&desc=%5BSEU%20CARGO%5D%20%7C%20Cybersecurity%20%26%20AI&descSize=18&descAlign=50&descAlignY=70" alt="Header Banner" width="100%" />
+</p>
 
-<!--
-**grandepedro87/grandepedro87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF69B4&background=00000000&center=true&vCenter=true&width=500&lines=Fullstack+Developer;C%23+%7C+C+%7C+Python+%7C+React;Cybersecurity+%26+AI+Specialist;CTF+Player+%26+Automation+Builder" alt="Typing Animation" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-lucca-3b3b43263/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF69B4" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/pedrolucca_87"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF69B4" alt="Instagram" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Sobre Mim
+
+```bash
+$ whoami
+> Pedro Lucca — Fullstack Developer
