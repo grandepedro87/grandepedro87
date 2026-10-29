@@ -17,4 +17,4 @@
 
 ```bash
 $ whoami
-> Pedro Lucca — Fullstack Developer
+> Pedro Lucca — Fullstack Developer / cybersecurity + IA
