@@ -1,7 +1,3 @@
-<!-- BANNER PERSONALIZADO -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=%5BSEU%20NOME%5D&fontSize=50&fontColor=FF69B4&animation=twinkling&desc=%5BSEU%20CARGO%5D%20%7C%20Cybersecurity%20%26%20AI&descSize=18&descAlign=50&descAlignY=70" alt="Header Banner" width="100%" />
-</p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
